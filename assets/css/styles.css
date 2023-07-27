@@ -98,13 +98,13 @@ nav {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 2.5rem;
+    gap: 3rem;
     max-width: 68.75rem;
     margin: auto;
   }
 
   .hero img {
-    height: 37.5rem;
+    height: 40rem;
     width: 37.5rem;
   }
   
